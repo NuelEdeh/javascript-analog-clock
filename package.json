@@ -1,0 +1,32 @@
+{
+  "name": "analog-clock",
+  "version": "1.0.0",
+  "description": "clock built with javascript and html",
+  "main": "app.js",
+  "man": [
+    "./man/index.html"
+  ],
+  "devDependencies": {
+    "open": "^8.4.0"
+  },
+  "scripts": {
+    "install": "./index.html",
+    "test": "test code"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NuelEdeh/javascript-analog-clock.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Nuel Edeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NuelEdeh/javascript-analog-clock/issues"
+  },
+  "homepage": "https://github.com/NuelEdeh/javascript-analog-clock#readme",
+  "dependencies": {
+    "html": "^1.0.0"
+  }
+}
